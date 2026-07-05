@@ -6,7 +6,6 @@ This repository contains my daily Python practice programs.
 
 - Day 1: Identify Prime Number Program
 
-
 ## 📌 Topics Covered
 
 - Python Basics
