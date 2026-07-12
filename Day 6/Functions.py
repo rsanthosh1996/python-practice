@@ -83,6 +83,7 @@ users("nallabalu","salmon","koko")
 
 
 #individual welcome
+# here it takes only positional arguments if i give x = "santosh" it ll throw type error
 def users(*x):
     for i in x:
         print("welcome",i)
